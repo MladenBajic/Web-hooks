@@ -6,6 +6,7 @@
 #### 1.2. Make sure the api key you have in the ats GH(admin panel) is sendbox key, not production one.
  _http://#tenant.localhost:8000/admin/ **>** Atss **>** GH_
 
+ - NOTE: Setup process is done on Windows OS , but process should not be very different for other operating systems.
 ## 2.Setup Ngrok
 #### 2.1. Download and install Ngrok: https://ngrok.com/download.
 #### 2.2. Sign in to: https://dashboard.ngrok.com/login so you can see private settings and current tunel connections.
