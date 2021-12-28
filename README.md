@@ -49,5 +49,5 @@
  - "Error recipient email" - Add your email.
  - "Disabled" - Set to "No".
  - Click "Create Web hook".
-
+#### NOTE: When you finish testing it is absolutely necessary to disable the hook.
 # You are all set up.
